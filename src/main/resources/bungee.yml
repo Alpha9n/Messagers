@@ -1,0 +1,4 @@
+name: Messagers
+version: '${project.version}'
+main: pro.freeserver.bplugin.alphakun.messagers.Messagers
+description: 入退出メッセージを管理します
